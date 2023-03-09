@@ -1,0 +1,14 @@
+Selenium Hybrid Framework
+-------------------------------
+What is Framework?
+Framework is an organised way of maintaining automation files.
+In the Framework all the files will communicate each other to preform certain task.
+Objective/Goal: 1. Re-usability and 2. Maintability.
+
+Types of Framework:
+1. Built-in Framework
+    pytest, roobotframework, unittest, etc...
+
+2. Customised/user defined Frameworks,
+    Datadriven Framework, keyword driven Framework, Hybrid driven Framework. 
+
